@@ -1,0 +1,2 @@
+C:\Users\StevenCollins\source\repos\DotNetCoreVue\DotNetCoreVue.UI\obj\Debug\DotNetCoreVue.UI.njsproj.CoreCompileInputs.cache
+C:\Users\StevenCollins\source\repos\DotNetCoreVue\DotNetCoreVue.UI\bin\Microsoft.NodejsTools.WebRole.dll
